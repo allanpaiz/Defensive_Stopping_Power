@@ -1,2 +1,6 @@
-# Defensive_Stopping_Power
-My 2024 NFL Big Data Bowl Submission Repository
+# Defensive_Stopping_Power : Considering Yards Allowed After Every Contact
+
+Undergraduate Track Submission
+Allan Paiz
+University of South Carolina
+apaiz@email.sc.edu
