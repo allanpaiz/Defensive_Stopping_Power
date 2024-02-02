@@ -1,7 +1,7 @@
 # Defensive Stopping Power : 
 ## Considering Yards Allowed After Every Contact
 
-##[2024 NFL Big Data Bowl : Runner Up Submission ($5,000)](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/discussion/472712)
+## [2024 NFL Big Data Bowl : Runner Up Submission ($5,000)](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/discussion/472712)
 ### Seeking Internships [linkedin](https://www.linkedin.com/in/allan-paiz/) [email](apaiz@email.sc.edu)
 
 - Undergraduate Track Submission
