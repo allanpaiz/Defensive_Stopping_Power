@@ -27,7 +27,7 @@
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F1C40F?style=flat&logo=tools&logoColor=white)](#)
 
 ## Overview
-This repository contains [my submission for the 2024 NFL Big Data Bowl](https://www.kaggle.com/code/allanpaiz/defensive-stopping-power) (Undergraduate Track).
+This repository contains the code, figures and this summary for [my submission for the 2024 NFL Big Data Bowl](https://www.kaggle.com/code/allanpaiz/defensive-stopping-power) (Undergraduate Track).
 
 I placed in the top 10 out of over 300 submissions, receiving $5,000 in prize money.
 
