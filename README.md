@@ -8,7 +8,7 @@
 - [Yards Allowed After Contact](#yards-allowed-after-contact)
 - [Use](#use)
 - [Conclusion](#conclusion)
-- [Contact Information](#contact-information)
+<!--- - [Contact Information](#contact-information) -->
 
 ### Skills Demonstrated
 
@@ -33,9 +33,9 @@ I placed in the top 10 out of over 300 submissions, receiving $5,000 in prize mo
 
 View the finalist announcement on [Kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/discussion/472712) or [NFL.com](https://operations.nfl.com/gameday/analytics/big-data-bowl/2024-big-data-bowl-finalists/)
 
-For more information on this project visit:
-- My [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power)
-- Or [**PLACEHOLDER** here](https://github.com/allanpaiz/Defensive_Stopping_Power) in pdf format.
+<!--- For more information on this project visit: -->
+<!--- - My [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power) -->
+<!--- - Or [**PLACEHOLDER** here](https://github.com/allanpaiz/Defensive_Stopping_Power) in pdf format. -->
 
 ## 2024 Theme : Tackling
 The competition's tackling theme left me struggling to find a direction for my project.
@@ -109,5 +109,10 @@ Thank you for reading.
 
 By Allan Paiz
 
-### Contact Information
-Visit my [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power) for ways to contact me.
+<!--- ### Contact Information -->
+<!--- Visit my [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power) for ways to contact me. -->
+
+<!--- ## Extra Example
+<!--- These GIF's didn't make the kaggle notebook cut, show the accuracy of the model's contact predictions. -->
+<!--- ![](https://github.com/allanpaiz/Defensive_Stopping_Power/blob/main/figures/play.gif) -->
+<!--- ![](https://github.com/allanpaiz/Defensive_Stopping_Power/blob/main/figures/graphs.gif) -->
