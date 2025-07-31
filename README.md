@@ -55,7 +55,7 @@ Using the `first_contact` flag along with player positions, speeds, directions, 
 
 The example below illustrates the value of this model, with each line representing one of the eleven defenders.
 The model helps fill the gaps in the data; on any given play, much more goes on between `first_contact` and the end of the play (`tackle`, in this case). 
-![Probability of Contact Score (PCS) example over the course of a play](https://raw.githubusercontent.com/allanpaiz/Defensive_Stopping_Power/main/code/PCS_example.gif)
+![Probability of Contact Score (PCS) example over the course of a play](https://raw.githubusercontent.com/allanpaiz/Defensive_Stopping_Power/main/figures/PCS_example.gif)
 
 # Yards Allowed After Contact
 While the model and it's output is far from perfect, there are many unexplored ways to use this type of information.
