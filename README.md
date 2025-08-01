@@ -8,7 +8,7 @@
 - [Yards Allowed After Contact](#yards-allowed-after-contact)
 - [Use](#use)
 - [Conclusion](#conclusion)
-<!--- - [Contact Information](#contact-information) -->
+- [Contact Information](#contact-information)
 
 ### Skills Demonstrated
 
@@ -20,11 +20,14 @@
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2ECC71?style=flat&logo=code&logoColor=white)](#)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-27AE60?style=flat&logo=code&logoColor=white)](#)
+[![Data Processing](https://img.shields.io/badge/Data%20Processing-16A085?style=flat&logo=database&logoColor=white)](#)
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3498DB?style=flat&logo=chart-bar&logoColor=white)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-E74C3C?style=flat&logo=brain&logoColor=white)](#)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9B59B6?style=flat&logo=chart-line&logoColor=white)](#)
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-F1C40F?style=flat&logo=tools&logoColor=white)](#)
+[![Reporting](https://img.shields.io/badge/Reporting-34495E?style=flat&logo=report&logoColor=white)](#)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9B59B6?style=flat&logo=chart-line&logoColor=white)](#)
+
 
 ## Overview
 This repository contains the code, figures and this summary for [my submission for the 2024 NFL Big Data Bowl](https://www.kaggle.com/code/allanpaiz/defensive-stopping-power) (Undergraduate Track).
@@ -33,8 +36,8 @@ I placed in the top 10 out of over 300 submissions, receiving $5,000 in prize mo
 
 View the finalist announcement on [Kaggle](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/discussion/472712) or [NFL.com](https://operations.nfl.com/gameday/analytics/big-data-bowl/2024-big-data-bowl-finalists/)
 
-<!--- For more information on this project visit: -->
-<!--- - My [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power) -->
+For more information on this project visit:
+- [My portfolio website](http://allanpaiz.com)
 <!--- - Or [**PLACEHOLDER** here](https://github.com/allanpaiz/Defensive_Stopping_Power) in pdf format. -->
 
 ## 2024 Theme : Tackling
@@ -109,8 +112,8 @@ Thank you for reading.
 
 By Allan Paiz
 
-<!--- ### Contact Information -->
-<!--- Visit my [**PLACEHOLDER** portfolio website](https://github.com/allanpaiz/Defensive_Stopping_Power) for ways to contact me. -->
+### Contact Information
+Visit [my portfolio website](http://allanpaiz.com) for ways to contact me.
 
 <!--- ## Extra Example
 <!--- These GIF's didn't make the kaggle notebook cut, show the accuracy of the model's contact predictions. -->
